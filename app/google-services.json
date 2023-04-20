@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411670659375",
+    "project_id": "itstime-f9a19",
+    "storage_bucket": "itstime-f9a19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411670659375:android:59cd10a5fce6901b9a61da",
+        "android_client_info": {
+          "package_name": "br.com.gabriel.itstime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411670659375-fsi11c0ohjdiu4a3usbgep6oenqtic8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMUtaIKLDK0GZBl7i-ZUqZS_UBk9A6Kes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411670659375-fsi11c0ohjdiu4a3usbgep6oenqtic8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
