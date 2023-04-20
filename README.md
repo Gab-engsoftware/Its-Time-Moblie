@@ -9,6 +9,8 @@ o objetivo do trabalho foi colocar em prática alguns assuntos que estudamos em 
 A aplicação consiste em preencher um formulário para cadastrar medicamentos.
 O objetivo do aplicativo embora simple é adicionar os medicamentos e possuir uma lista dos mesmos além de  lembrar aos usúarios o horário da medicação. 
 
+Como desafio acrescentamos a integração com o Banco de Dados FireBase.
+
 
 ## Tela Inicial
 ![App no Celular](https://user-images.githubusercontent.com/89217325/233497098-b8310197-7a0d-4cff-b8bd-ccfebf9ba071.jpeg)
